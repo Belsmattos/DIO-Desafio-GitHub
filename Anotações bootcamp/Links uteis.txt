@@ -1,0 +1,5 @@
+Bootcamp -> https://web.dio.me/track/gft-quality-assurance-para-mulheres?page=1&search=&tab=path
+
+Documentação Git -> https://docs.github.com/pt/get-started/quickstart/git-and-github-learning-resources
+
+Sintaxi Basica Markdown -> https://www.markdownguide.org/basic-syntax/
